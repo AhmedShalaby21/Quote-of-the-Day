@@ -1,0 +1,22 @@
+.window{
+    display: block;
+    text-align: center;
+}
+.window h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.window p{
+    font-size: 35px;
+}
+.window button{
+    width: 200px;
+    height: 80px;
+    background-color:blue;
+    color: white;
+    border-radius: 2px;
+    
+}
+button:hover{
+    background-color: green;
+}
